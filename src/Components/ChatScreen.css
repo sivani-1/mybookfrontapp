@@ -1,0 +1,10 @@
+.headerSearchInput {
+    margin-left: 400px;
+    align-self: center;
+    margin-top: 280px;
+    width: 50%;
+    border-radius: 5%;
+    padding: 50px;
+    font-size: larger;
+    color: black;
+  }

@@ -1,0 +1,18 @@
+.headerBtn {
+    background-color: #0071c2;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 10px;
+    /* cursor: pointer; */
+    align-self: center;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .fpImg{
+    width: 10%;
+    max-width: 1024px;
+    margin-top: 300px;
+    margin-left: 700px;
+  }
+  
